@@ -15,7 +15,8 @@ export default defineConfig({
         tailwindcss(),
     ],
     build: {
-        outDir: 'public/build',
+        outDir: 'dist',
+        emptyOutDir: true,
     },
     esbuild: {
         jsx: 'automatic',
