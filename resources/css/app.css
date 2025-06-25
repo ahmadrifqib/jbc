@@ -5,11 +5,42 @@
 @source '../views';
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 
-@custom-variant dark (&:is(.dark *));
+/* @custom-variant dark (&:is(.dark *)); */
+
+@font-face {
+    font-family: 'onest';
+    src: url('../fonts/Onest.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'advent-sans';
+    src: url('../fonts/AdventSans-Logo.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'alfa-slab';
+    src: url('../fonts/AlfaSlabOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'lexend';
+    src: url('../fonts/Lexend.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'anton-sc';
+    src: url('../fonts/AntonSC.ttf') format('truetype');
+}
 
 @theme {
     --font-sans:
         'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+    --alfa-slab: 'alfa-slab';
+    --advent-sans: 'advent-sans';
+    --lexend: 'lexend';
+    --onest: 'onest';
+    --anton-sc: 'anton-sc';
 
     --radius-lg: var(--radius);
     --radius-md: calc(var(--radius) - 2px);
@@ -57,6 +88,70 @@
     --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
     --color-sidebar-border: var(--sidebar-border);
     --color-sidebar-ring: var(--sidebar-ring);
+
+    /* Denim palette */
+    --color-jblue-50: #f0f7ff; /* Very light tint */
+    --color-jblue-100: #dbedff;
+    --color-jblue-200: #c6e2ff;
+    --color-jblue-300: #a6d1ff;
+    --color-jblue-400: #7fbcff;
+    --color-jblue-500: #2792f1; /* base color */
+    --color-jblue-600: #1a7cd9;
+    --color-jblue-700: #0d66c2;
+    --color-jblue-800: #0050ab;
+    --color-jblue-900: #003a94;
+    --color-jblue-950: #002d7d; /* Deep dark shade */
+
+    /* Ming palette */
+    --color-denim-50: #f0f5fa; /* Lightest (light blue) */
+    --color-denim-100: #dbe7f3;
+    --color-denim-200: #c6d9ec;
+    --color-denim-300: #a6c3e0;
+    --color-denim-400: #7fa8d1;
+    --color-denim-500: #2f557f; /* Base color */
+    --color-denim-600: #2a4a72;
+    --color-denim-700: #254065;
+    --color-denim-800: #1f3658;
+    --color-denim-900: #1a2c4b;
+    --color-denim-950: #15233e; /* Darkest (dark blue) */
+
+    --color-ming-50: #f0f7f9; /* Lightest (light blue) */
+    --color-ming-100: #dbedf1;
+    --color-ming-200: #c6e3e9;
+    --color-ming-300: #a6d3dc;
+    --color-ming-400: #7fbdca;
+    --color-ming-500: #3e8391; /* Base color */
+    --color-ming-600: #387482;
+    --color-ming-700: #326573;
+    --color-ming-800: #2c5664;
+    --color-ming-900: #264755;
+    --color-ming-950: #203846; /* Darkest (dark blue) */
+
+    /* Warm palette (golden amber) */
+    --color-warm-50: #fff9eb; /* Lightest (creamy yellow) */
+    --color-warm-100: #fff1cc;
+    --color-warm-200: #ffe5aa;
+    --color-warm-300: #ffd780;
+    --color-warm-400: #ffc34d;
+    --color-warm-500: #ffa92d; /* Base color */
+    --color-warm-600: #e69500;
+    --color-warm-700: #cc8100;
+    --color-warm-800: #b36d00;
+    --color-warm-900: #995a00;
+    --color-warm-950: #804700; /* Deep amber-brown */
+
+    /* Cool palette (forest green) */
+    --color-forest-50: #f5f9f4; /* Lightest (misty green) */
+    --color-forest-100: #e6f0e4;
+    --color-forest-200: #d4e5d1;
+    --color-forest-300: #b8d5b4;
+    --color-forest-400: #8fbf88;
+    --color-forest-500: #4d7549; /* Base color */
+    --color-forest-600: #44683f;
+    --color-forest-700: #3b5b36;
+    --color-forest-800: #324f2d;
+    --color-forest-900: #294224;
+    --color-forest-950: #20351b; /* Deep pine green */
 }
 
 /*
@@ -67,6 +162,7 @@
   If we ever want to remove these styles, we need to add an explicit border
   color utility to any element that depends on these defaults.
 */
+
 @layer base {
     *,
     ::after,
@@ -153,7 +249,7 @@
         @apply border-border;
     }
 
-    body {
+    /* body {
         @apply bg-background text-foreground;
-    }
+    } */
 }
