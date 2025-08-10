@@ -11,8 +11,8 @@ export default function Header(props: HeaderProps) {
                 Your browser does not support the video tag.
             </video>
 
-            <div className="relative h-screen content-end bg-gradient-to-b from-orange-50/10 to-orange-400/40 px-0 md:rounded-b-[3rem] md:px-30">
-                <div className="py-10 text-left text-zinc-50">
+            <div className="from-jblue-50/10 to-jblue-400/40 relative h-screen content-end bg-gradient-to-b px-0 md:rounded-b-[3rem] md:px-30">
+                <div className="py-10 text-left text-zinc-100">
                     <div className="text-shadow-lg/30 text-shadow-black text-center font-['anton-sc'] text-6xl font-black tracking-tight uppercase sm:text-7xl md:text-8xl lg:text-[10rem] xl:text-[12rem]">
                         {title}
                     </div>

@@ -1,7 +1,7 @@
+import Navbar from '@/components/main/navbar';
 import { cn } from '@/lib/utils';
 import { Link } from '@inertiajs/react';
 import { IconLocation, IconMail, IconTelephone } from '@intentui/icons';
-import Navigation from './pages/navigation';
 
 interface MainLayoutProps {
     children: React.ReactNode;
@@ -13,7 +13,7 @@ export default function MainLayout(prop: MainLayoutProps) {
 
     return (
         <>
-            <Navigation />
+            <Navbar />
 
             {/* Content */}
             <div className={cn(`scroll-smooth bg-zinc-50 font-['onest'] text-zinc-100`, className)} {...props}>
@@ -86,7 +86,7 @@ export default function MainLayout(prop: MainLayoutProps) {
                                 <Link href={route('service')}>Service</Link>
                             </li>
                             <li>
-                                <Link href={route('event')}>Event</Link>
+                                <Link href={route('location')}>Location</Link>
                             </li>
                             <li>
                                 <Link href={route('support')}>Support Us</Link>

@@ -1,0 +1,242 @@
+[
+    {
+        "uuid": "1",
+        "name": "Saiman Saragih",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081298912469",
+        "organizational_structure": {
+            "id": "1",
+            "name": "Pimpinan",
+            "sections": [{ "id": "1", "name": "Ketua" }]
+        }
+    },
+    {
+        "uuid": "2",
+        "name": "Sembi Naibaha",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "085261590007",
+        "organizational_structure": {
+            "id": "1",
+            "name": "Pimpinan",
+            "sections": [{ "id": "2", "name": "Sekretaris" }]
+        }
+    },
+    {
+        "uuid": "3",
+        "name": "Jerry Umboh",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081314418680",
+        "organizational_structure": {
+            "id": "1",
+            "name": "Pimpinan",
+            "sections": [{ "id": "3", "name": "Bendahara" }]
+        }
+    },
+    {
+        "uuid": "4",
+        "name": "Leroy Pakpahan",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081250503007",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [
+                { "id": "4", "name": "Sekretaris Assosiasi Kependetaan" },
+                { "id": "5", "name": "AMR" },
+                { "id": "6", "name": "Adventist Mission" }
+            ]
+        }
+    },
+    {
+        "uuid": "5",
+        "name": "Hemat Sibuea",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081269715111",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [{ "id": "7", "name": "Direktur SS/PP/Pelmas/ASI/NDR" }]
+        }
+    },
+    {
+        "uuid": "6",
+        "name": "Adib Budi Satriyo",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081380574015",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [
+                { "id": "8", "name": "Direktur PA / Musik" },
+                { "id": "9", "name": "Direktur Komunikasi / Kebebasan Beragama" },
+                { "id": "10", "name": "Direktur Filantrophi" }
+            ]
+        }
+    },
+    {
+        "uuid": "7",
+        "name": "Sonny Kapitan",
+        "title": "Pendeta",
+        "email": "",
+        "phone_number": "081213812637",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [{ "id": "11", "name": "Direktur Penatalayanan" }]
+        }
+    },
+    {
+        "uuid": "8",
+        "name": "Junita Capah",
+        "title": "",
+        "email": "",
+        "phone_number": "081283280247",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [{ "id": "12", "name": "Direktur Pendidikan & Pelayanan Anak-Anak" }]
+        }
+    },
+    {
+        "uuid": "9",
+        "name": "Putra Sabbath Sinaga",
+        "title": "Pendeta Muda",
+        "email": "",
+        "phone_number": "081224607983",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [
+                { "id": "13", "name": "Direktur Penerbitan/Roh Nubuat" },
+                { "id": "14", "name": "Direktur Kesehatan dan Kebutuhan Khusus" },
+                { "id": "15", "name": "Trust Service" }
+            ]
+        }
+    },
+    {
+        "uuid": "10",
+        "name": "Fanny Sagala",
+        "title": "",
+        "email": "",
+        "phone_number": "081380608248",
+        "organizational_structure": {
+            "id": "2",
+            "name": "Direktur Departemen",
+            "sections": [{ "id": "16", "name": "Direktur BWA/Ministerial Spouses/Rumah Tangga" }]
+        }
+    },
+    {
+        "uuid": "11",
+        "name": "Samuel Suawah",
+        "title": "",
+        "email": "",
+        "phone_number": "081802059116",
+        "organizational_structure": {
+            "id": "3",
+            "name": "Keuangan",
+            "sections": [{ "id": "17", "name": "Akuntan" }]
+        }
+    },
+    {
+        "uuid": "12",
+        "name": "Hasoloan Hugalang",
+        "title": "",
+        "email": "",
+        "phone_number": "085252574776",
+        "organizational_structure": {
+            "id": "3",
+            "name": "Keuangan",
+            "sections": [{ "id": "17", "name": "Akuntan" }]
+        }
+    },
+    {
+        "uuid": "13",
+        "name": "Risma Gultom",
+        "title": "",
+        "email": "",
+        "phone_number": "081215707930",
+        "organizational_structure": {
+            "id": "3",
+            "name": "Keuangan",
+            "sections": [{ "id": "17", "name": "Akuntan" }]
+        }
+    },
+    {
+        "uuid": "14",
+        "name": "Agus Suwandi",
+        "title": "",
+        "email": "",
+        "phone_number": "081395277058",
+        "organizational_structure": {
+            "id": "3",
+            "name": "Keuangan",
+            "sections": [{ "id": "17", "name": "Akuntan" }]
+        }
+    },
+    {
+        "uuid": "15",
+        "name": "Kelly Candle Pakasi",
+        "title": "",
+        "email": "",
+        "phone_number": "082293549293",
+        "organizational_structure": {
+            "id": "4",
+            "name": "Sekretaris",
+            "sections": [{ "id": "18", "name": "Sekretaris Officer" }]
+        }
+    },
+    {
+        "uuid": "16",
+        "name": "Derbina Sihombing",
+        "title": "",
+        "email": "",
+        "phone_number": "08126438608",
+        "organizational_structure": {
+            "id": "4",
+            "name": "Sekretaris",
+            "sections": [{ "id": "19", "name": "Administrasi" }]
+        }
+    },
+    {
+        "uuid": "17",
+        "name": "Anna Tindaon",
+        "title": "",
+        "email": "",
+        "phone_number": "081212082725",
+        "organizational_structure": {
+            "id": "5",
+            "name": "Asisten Direktur Penerbitan",
+            "sections": []
+        }
+    },
+    {
+        "uuid": "18",
+        "name": "Debora Sinaga",
+        "title": "",
+        "email": "",
+        "phone_number": "081282316871",
+        "organizational_structure": {
+            "id": "5",
+            "name": "Asisten Direktur Penerbitan",
+            "sections": []
+        }
+    },
+    {
+        "uuid": "19",
+        "name": "Edison Simatupang",
+        "title": "",
+        "email": "",
+        "phone_number": "081319069135",
+        "organizational_structure": {
+            "id": "5",
+            "name": "Asisten Direktur Penerbitan",
+            "sections": []
+        }
+    }
+]

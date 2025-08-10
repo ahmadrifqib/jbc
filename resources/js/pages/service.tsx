@@ -8,7 +8,7 @@ export default function Service() {
     return (
         <>
             {/* Head */}
-            <Head title="Event" />
+            <Head title="Service" />
 
             <MainLayout>
                 {/* header */}
@@ -23,7 +23,7 @@ export default function Service() {
                                 {Array.from({ length: 20 }).map((_, index) => (
                                     <CarouselItem key={index} className="basis-1/2 lg:basis-1/4">
                                         <div className="p-0 md:p-2">
-                                            <Card className="rounded-2xl bg-zinc-100 px-0 py-10 text-gray-900 transition duration-300 hover:cursor-grab hover:bg-orange-300/90 md:rounded-4xl md:px-5 md:py-20">
+                                            <Card className="border-jblue-400 hover:bg-jblue-300/90 rounded-2xl bg-zinc-100 px-0 py-10 text-zinc-900 transition duration-300 hover:cursor-grab md:rounded-4xl md:px-5 md:py-20">
                                                 <CardHeader>
                                                     <CardTitle className="text-xl capitalize md:text-3xl">Lorem ips {index + 1}</CardTitle>
                                                 </CardHeader>
@@ -35,7 +35,7 @@ export default function Service() {
                                                 </CardContent>
                                                 <CardFooter>
                                                     <Link
-                                                        className="rounded-full border bg-orange-500/90 p-3 px-5 text-xs font-bold text-zinc-100 uppercase transition duration-300 hover:bg-zinc-100 hover:text-zinc-800 md:p-4 md:px-7 md:text-base"
+                                                        className="bg-jblue-500/90 rounded-full border p-3 px-5 text-xs font-bold text-zinc-100 uppercase transition duration-300 hover:bg-zinc-100 hover:text-zinc-800 md:p-4 md:px-7 md:text-base"
                                                         href="/"
                                                     >
                                                         Read More

@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Perguruan Advent Anggrek",
+            "level": ["SD", "SMP"],
+            "address": "Jl. Anggrek No. 17, Tg. Priok, Kec. Koja, Jakarta Utara",
+            "school_number": "(021) 4352157",
+            "administrators": [
+                {
+                    "name": "Ridwan Sihombing, S.E",
+                    "phone": "0812-1006-3437",
+                    "email": "amaevanie@gmail.com"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Perguruan Advent Depok Timur",
+            "level": ["TK", "SD", "SMP"],
+            "address": "Jl. Keadilan Ujung No. 88, Depok Timur",
+            "school_number": "(021) 7783564",
+            "administrators": [
+                {
+                    "name": "Wella Imelda, S.E",
+                    "phone": "0813-1511-1738",
+                    "email": "mammelda1@gmail.com"
+                },
+                {
+                    "name": "Vera Elfrida, S.Pd",
+                    "phone": "0813-1665-6798",
+                    "email": "veraelfrida2020@gmail.com"
+                },
+                {
+                    "name": "Hetty Juita Siahaan, S.Pd",
+                    "phone": "0811-9712-050",
+                    "email": "Hetty.js@gmail.com"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Perguruan Advent Serang",
+            "level": ["TK", "SD", "SMP"],
+            "address": "Komplek Griya Baladika, Jl. Perjuangan IV, Kel. Drangong, Kec. Taktakan, Serang",
+            "school_number": "",
+            "administrators": [
+                {
+                    "name": "Renta Silalahi, S.Pd.",
+                    "phone": "0851-5659-3929",
+                    "email": "rentapasaribu68@gmail.com"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "SD Advent IX Tanjung Priok",
+            "level": ["SD"],
+            "address": "Jl. Kramat Jaya Blok C No. 15, Kec. Cilincing, Jakarta Utara",
+            "school_number": "(021) 4403807",
+            "administrators": [
+                {
+                    "name": "Erani Marlina S.Pd",
+                    "phone": "0857-9660-8804",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Sekolah Kristen Makarios",
+            "level": ["TK", "SD", "SMP", "SMA"],
+            "address": "Jl. Raya Kembangan Baru No. 1, Kembangan Selatan, Jakarta Barat 11610",
+            "school_number": "(021) 5826967",
+            "administrators": [
+                {
+                    "name": "Lowri Panggabean, S.Pd",
+                    "phone": "0821-2466-9565",
+                    "email": ""
+                },
+                {
+                    "name": "Rolland Mauriths MA.Ed",
+                    "phone": "0815-8936-611",
+                    "email": ""
+                }
+            ]
+        }
+    ]
+}

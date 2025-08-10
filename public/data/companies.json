@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Acme Corp",
+        "description": "Global supplier of anvils.",
+        "lat": -6.2,
+        "lng": 106.816666
+    },
+    {
+        "id": 2,
+        "name": "Wayne Tech",
+        "description": "Advanced gadget manufacturer.",
+        "lat": -6.21,
+        "lng": 106.82
+    },
+    {
+        "id": 3,
+        "name": "Stark Industries",
+        "description": "Defense and clean-energy solutions.",
+        "lat": -6.215,
+        "lng": 106.825
+    },
+    {
+        "id": 4,
+        "name": "Oscorp",
+        "description": "Biotech and engineering leader.",
+        "lat": -6.205,
+        "lng": 106.83
+    },
+    {
+        "id": 5,
+        "name": "GMAHK Bintaro",
+        "description": "Gedung Sentra Bintaro, Jln. Taman Makam Pahlawan Bahagia Blok T No. 10, Sektor IX, Bintaro Jaya, Tangerang Selatan",
+        "lat": -6.284657770616246,
+        "lng": 106.71482609090062,
+        "gmap_link": "https://maps.app.goo.gl/FcJaxHrGJbRAC6mF6"
+    }
+]

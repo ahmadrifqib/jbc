@@ -20,9 +20,13 @@ Route::get('/service', function () {
     return Inertia::render('service');
 })->name('service');
 
-Route::get('/event', function () {
-    return Inertia::render('event');
-})->name('event');
+Route::get('/location', function () {
+    return Inertia::render('location');
+})->name('location');
+
+Route::get('/event-test', function () {
+    return Inertia::render('event-test');
+})->name('event-test');
 
 Route::get('/support', function () {
     return Inertia::render('support');

@@ -6,7 +6,7 @@ export default function Support() {
     return (
         <>
             {/* Head */}
-            <Head title="Event" />
+            <Head title="Support" />
 
             <MainLayout>
                 {/* header */}

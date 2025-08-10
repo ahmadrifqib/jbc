@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Saiman Saragih",
+            "title": "Pendeta",
+            "position": "Ketua",
+            "phone_number": "081298912469",
+            "email": ""
+        },
+        {
+            "id": 2,
+            "name": "Sembi Naibaho",
+            "title": "Pendeta",
+            "position": "Sekretaris",
+            "phone_number": "085261590007",
+            "email": ""
+        },
+        {
+            "id": 3,
+            "name": "Bpk. Jerry Umboh",
+            "title": "",
+            "position": "Bendahara",
+            "phone_number": "081314418680",
+            "email": ""
+        },
+        {
+            "id": 4,
+            "name": "Leroy Pakpahan",
+            "title": "Pendeta",
+            "position": "Asso. Kependetaan",
+            "phone_number": "081250503007",
+            "email": ""
+        },
+        {
+            "id": 5,
+            "name": "Junita Capah",
+            "title": "",
+            "position": "Direktur Pendidikan",
+            "phone_number": "081283280247",
+            "email": ""
+        },
+        {
+            "id": 6,
+            "name": "Anna Sitinjak",
+            "title": "",
+            "position": "Penerbitan",
+            "phone_number": "081212082725",
+            "email": ""
+        },
+        {
+            "id": 7,
+            "name": "Ridwan Sihombing",
+            "title": "",
+            "position": "Pendidikan",
+            "phone_number": "081210063437",
+            "email": ""
+        },
+        {
+            "id": 8,
+            "name": "Yan Penlaana",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "081250902200",
+            "email": ""
+        },
+        {
+            "id": 9,
+            "name": "Pardamean Silaen",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "081310952896",
+            "email": ""
+        },
+        {
+            "id": 10,
+            "name": "Herlen Yang",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "085266269352",
+            "email": ""
+        },
+        {
+            "id": 11,
+            "name": "Ajun Hadi Panggabean",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "081310642815",
+            "email": ""
+        },
+        {
+            "id": 12,
+            "name": "Tommy Sihotang",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "081219393077",
+            "email": ""
+        },
+        {
+            "id": 13,
+            "name": "Gideon Agustinus Pongoh",
+            "title": "Pendeta",
+            "position": "Gembala Jemaat",
+            "phone_number": "08111892989",
+            "email": ""
+        },
+        {
+            "id": 14,
+            "name": "Adib Budi Satriyo",
+            "title": "Pendeta",
+            "position": "Departemen PA/Musik,Komunikasi/PARL",
+            "phone_number": "081380574015",
+            "email": ""
+        },
+        {
+            "id": 15,
+            "name": "Sony Kapitan",
+            "title": "Pendeta",
+            "position": "Departemen Penatalayanan",
+            "phone_number": "081213812637",
+            "email": ""
+        },
+        {
+            "id": 16,
+            "name": "Freddy Manalu",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. I",
+            "phone_number": "081282235845",
+            "email": ""
+        },
+        {
+            "id": 17,
+            "name": "Jemmy Zebedeus",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. I",
+            "phone_number": "0811197153",
+            "email": ""
+        },
+        {
+            "id": 18,
+            "name": "Bosmen Limbong",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. II",
+            "phone_number": "081386576764",
+            "email": ""
+        },
+        {
+            "id": 19,
+            "name": "Leo Frans Pinem",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. II",
+            "phone_number": "081314134253",
+            "email": ""
+        },
+        {
+            "id": 20,
+            "name": "Tagor Nababan",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. III",
+            "phone_number": "0811973221",
+            "email": ""
+        },
+        {
+            "id": 21,
+            "name": "Eka Wagiran",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. III",
+            "phone_number": "0811947121",
+            "email": ""
+        },
+        {
+            "id": 22,
+            "name": "Nichol Hutapea",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. IV",
+            "phone_number": "0811967406",
+            "email": ""
+        },
+        {
+            "id": 23,
+            "name": "Stance Mambu",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. IV",
+            "phone_number": "0811494884",
+            "email": ""
+        },
+        {
+            "id": 24,
+            "name": "Parlin Situmorang",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. V",
+            "phone_number": "081383393118",
+            "email": ""
+        },
+        {
+            "id": 25,
+            "name": "Johnny Richard Panjaitan",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. V",
+            "phone_number": "08594658098 / 085946580981",
+            "email": ""
+        },
+        {
+            "id": 26,
+            "name": "Wilven Nadeak",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. IX",
+            "phone_number": "081316777425",
+            "email": ""
+        },
+        {
+            "id": 27,
+            "name": "Dewi Muskita",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. VII",
+            "phone_number": "0811171704",
+            "email": ""
+        },
+        {
+            "id": 28,
+            "name": "Ibrahim Saleh",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. VIII",
+            "phone_number": "08119106777",
+            "email": ""
+        },
+        {
+            "id": 29,
+            "name": "Albertus Panjaitan",
+            "title": "",
+            "position": "Anggota Jemaat mewakili Wil. VIII",
+            "phone_number": "08121026437",
+            "email": ""
+        }
+    ]
+}

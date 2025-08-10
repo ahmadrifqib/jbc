@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Binsar Sagala",
+            "title": "Pendeta",
+            "position": "Sekretaris Eksekutif UIKB",
+            "phone_number": "081319401323",
+            "email": ""
+        },
+        {
+            "id": 2,
+            "name": "Sembi Naibaho",
+            "title": "Pendeta",
+            "position": "Sekretaris Eksekutif JBC",
+            "phone_number": "085261590007",
+            "email": ""
+        },
+        {
+            "id": 3,
+            "name": "Jemmy Lumangkun",
+            "title": "Pendeta",
+            "position": "",
+            "phone_number": "082112464931",
+            "email": ""
+        },
+        {
+            "id": 4,
+            "name": "Heince Rusli",
+            "title": "Pendeta",
+            "position": "",
+            "phone_number": "0811877781",
+            "email": ""
+        },
+        {
+            "id": 5,
+            "name": "Elvira Takasanakeng",
+            "title": "",
+            "position": "",
+            "phone_number": "087777007272",
+            "email": ""
+        },
+        {
+            "id": 6,
+            "name": "Sasmita",
+            "title": "",
+            "position": "",
+            "phone_number": "081310134084",
+            "email": ""
+        },
+        {
+            "id": 7,
+            "name": "Edward Sihombing",
+            "title": "",
+            "position": "",
+            "phone_number": "081287960811",
+            "email": ""
+        },
+        {
+            "id": 8,
+            "name": "Selviana Nadeak",
+            "title": "",
+            "position": "",
+            "phone_number": "08119631368",
+            "email": ""
+        },
+        {
+            "id": 9,
+            "name": "Fred Simamora",
+            "title": "",
+            "position": "",
+            "phone_number": "0818420909",
+            "email": ""
+        }
+    ]
+}

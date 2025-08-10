@@ -6,7 +6,7 @@ export default function Navigation() {
     return (
         <div className="fixed top-0 right-0 left-0 z-10 container mx-auto">
             {/* Navigation Bar */}
-            <div className="bg-red mx-10 flex items-center justify-between py-8 text-center font-extrabold lg:mx-0">
+            <div className="mx-10 flex items-center justify-between py-8 text-center font-extrabold lg:mx-0">
                 <div className="rounded-full border-4 border-zinc-100 bg-white transition duration-300 hover:bg-zinc-100/90">
                     <Link href={route('home')} className="flex items-center px-5 py-2 text-center">
                         <img src="/icons/adventist-symbol-tm/adventist-symbol-tm--bluejay.svg" alt="Logo Adventist" className="-m-2 size-10" />
